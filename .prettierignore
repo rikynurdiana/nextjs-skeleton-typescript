@@ -1,0 +1,6 @@
+build
+node_module
+public
+.next
+*.json
+out
